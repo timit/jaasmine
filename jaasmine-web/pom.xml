@@ -3,10 +3,11 @@
   <parent>
     <artifactId>jaasmine-parent</artifactId>
     <groupId>com.logiclander.jaasmine</groupId>
-    <version>1.1.0</version>
+    <version>1.2.00-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>jaasmine-web</artifactId>
+  <version>1.2.0-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>jaasmine-web</name>
   <repositories>
@@ -46,7 +47,7 @@
     <dependency>
       <groupId>com.logiclander.jaasmine</groupId>
       <artifactId>jaasmine-core</artifactId>
-      <version>1.1.0</version>
+      <version>1.2.0-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>log4j</groupId>
