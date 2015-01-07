@@ -20,7 +20,7 @@ import org.apache.commons.logging.LogFactory;
  *   doNotPrompt=true
  *   storeKey=true
  *   keyTab="/path/to/keytab"
- *   principal="SVC/server.host.name@MYDOMAIN.COM"
+ *   principal="SVC/host.name@MYDOMAIN.COM"
  *   ;
  *  };
  * </PRE>}

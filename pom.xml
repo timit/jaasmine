@@ -26,9 +26,9 @@
     </license>
   </licenses>
   <scm>
-    <url>http://jaasmine.googlecode.com/svn/trunk/</url>
-    <connection>scm:svn:http://jaasmine.googlecode.com/svn/trunk/</connection>
-    <developerConnection>scm:svn:https://jaasmine.googlecode.com/svn/trunk/</developerConnection>
+    <url>https://github.com/logiclander/jaasmine.git</url>
+    <connection>scm:git:https://github.com/logiclander/jaasmine.git</connection>
+    <developerConnection>scm:git:https://github.com/logiclander/jaasmine.git</developerConnection>
   </scm>
   <developers>
     <developer>
