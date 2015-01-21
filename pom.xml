@@ -39,7 +39,6 @@
     </developer>
   </developers>
   <modules>
-    <module>jaasmine-core</module>
     <module>jaasmine-web</module>
   </modules>
   <dependencies />
