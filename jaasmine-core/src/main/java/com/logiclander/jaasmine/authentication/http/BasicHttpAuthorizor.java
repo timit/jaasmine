@@ -50,7 +50,7 @@ class BasicHttpAuthorizor extends BaseHttpAuthorizor {
     private List<String> getUsernamePasswordCreds(String decodedCredential) {
 
         ImmutableList.Builder<String> decodedCreds = ImmutableList.builder();
-        for (String decodedCred : decodedCredential.split(":")) {
+        for (String decodedCred : decodedCredential.split(":", 2)) {
             decodedCreds.add(decodedCred);
         }
 
